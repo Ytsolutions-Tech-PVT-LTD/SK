@@ -101,6 +101,9 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
+					<image>
+                    <name>ytssk/restapi:1.0</name>
+                   </image>
 				</configuration>
 			</plugin>
 		</plugins>
